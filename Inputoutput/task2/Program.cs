@@ -16,11 +16,14 @@ namespace task2
             strwrite.WriteLine(Console.ReadLine());
             strwrite.Close();
             file.Close();
-            Console.WriteLine("Файл сохранен");
+            Console.WriteLine("Файл сохранен\nДля открытия нажмите любую кнопку...");
+            Console.ReadKey();
             var strread = File.OpenText("file.txt");
             Console.WriteLine("текст в файле:");
             Console.WriteLine(strread.ReadLine());
             strread.Close();
+            Console.ReadKey();
+            Console.WriteLine("Файл прочтён\nДля удаления нажмите любую кнопку...");
             File.Delete("file.txt");
             Console.ReadKey();
         }
