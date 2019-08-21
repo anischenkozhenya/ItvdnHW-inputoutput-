@@ -1,0 +1,6 @@
+E:\InputOutput\ItvdnHW-inputoutput-\Inputoutput\task2\bin\Debug\task2.exe.config
+E:\InputOutput\ItvdnHW-inputoutput-\Inputoutput\task2\bin\Debug\task2.exe
+E:\InputOutput\ItvdnHW-inputoutput-\Inputoutput\task2\bin\Debug\task2.pdb
+E:\InputOutput\ItvdnHW-inputoutput-\Inputoutput\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+E:\InputOutput\ItvdnHW-inputoutput-\Inputoutput\task2\obj\Debug\task2.exe
+E:\InputOutput\ItvdnHW-inputoutput-\Inputoutput\task2\obj\Debug\task2.pdb
