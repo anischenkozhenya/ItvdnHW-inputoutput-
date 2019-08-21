@@ -1,0 +1,7 @@
+E:\InputOutput\ItvdnHW-inputoutput-\Inputoutput\task1\bin\Debug\task1.exe.config
+E:\InputOutput\ItvdnHW-inputoutput-\Inputoutput\task1\bin\Debug\task1.exe
+E:\InputOutput\ItvdnHW-inputoutput-\Inputoutput\task1\bin\Debug\task1.pdb
+E:\InputOutput\ItvdnHW-inputoutput-\Inputoutput\task1\obj\Debug\task1.csprojAssemblyReference.cache
+E:\InputOutput\ItvdnHW-inputoutput-\Inputoutput\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+E:\InputOutput\ItvdnHW-inputoutput-\Inputoutput\task1\obj\Debug\task1.exe
+E:\InputOutput\ItvdnHW-inputoutput-\Inputoutput\task1\obj\Debug\task1.pdb
