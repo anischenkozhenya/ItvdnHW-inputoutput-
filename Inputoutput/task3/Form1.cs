@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.IO;
 using System.IO.Compression;
-
 using System.Windows.Forms;
-
+//Напишите приложение для поиска заданного файла на диске.Добавьте код, использующий
+//класс FileStream и позволяющий просматривать файл в текстовом окне. В заключение
+//добавьте возможность сжатия найденного файла.
 namespace task3
 {
     public partial class Form1 : Form
