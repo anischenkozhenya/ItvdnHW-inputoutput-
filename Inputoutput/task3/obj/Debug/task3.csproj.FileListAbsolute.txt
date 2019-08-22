@@ -1,0 +1,10 @@
+E:\InputOutput\ItvdnHW-inputoutput-\InputOutput\task3\bin\Debug\task3.exe.config
+E:\InputOutput\ItvdnHW-inputoutput-\InputOutput\task3\bin\Debug\task3.exe
+E:\InputOutput\ItvdnHW-inputoutput-\InputOutput\task3\bin\Debug\task3.pdb
+E:\InputOutput\ItvdnHW-inputoutput-\InputOutput\task3\obj\Debug\task3.csprojAssemblyReference.cache
+E:\InputOutput\ItvdnHW-inputoutput-\InputOutput\task3\obj\Debug\task3.Form1.resources
+E:\InputOutput\ItvdnHW-inputoutput-\InputOutput\task3\obj\Debug\task3.Properties.Resources.resources
+E:\InputOutput\ItvdnHW-inputoutput-\InputOutput\task3\obj\Debug\task3.csproj.GenerateResource.cache
+E:\InputOutput\ItvdnHW-inputoutput-\InputOutput\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+E:\InputOutput\ItvdnHW-inputoutput-\InputOutput\task3\obj\Debug\task3.exe
+E:\InputOutput\ItvdnHW-inputoutput-\InputOutput\task3\obj\Debug\task3.pdb
