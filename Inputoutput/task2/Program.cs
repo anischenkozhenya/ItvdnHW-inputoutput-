@@ -39,7 +39,7 @@ namespace task2
             Console.ReadKey();
 
             //Удаление файла
-            MyFileClass.Delete(filePath);            ;
+            MyFileClass.Delete(filePath);
 
             Console.WriteLine("Для удаления нажмите любую кнопку...");
             Console.ReadKey();
